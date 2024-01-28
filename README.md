@@ -43,7 +43,61 @@ O [Postman](https://www.postman.com/) ofere a comunidade duas formas de utiliza�
 * Versão WEB para login ou criar uma conta: [Postman WEB](https://identity.getpostman.com/login)
 
 ### Passo 1: Criando uma [Collection](https://www.postman.com/collection/)
+O vídeo a seguir não possui áudio, apenas demostrativo.
 
 https://github.com/developerbreno081/Documentacao_Request_Postman/assets/156582515/50a72b4f-a464-4e92-bf10-46cae0d34712
+
+### Passo 2: Documentação da API Petstore
+Iremos utilizar uma API de demonstração da plataforma Swagger o intuito é trabalhar com a categoria de "pet"
+para executar nossos Requests. [Documentação Swagger Petstore](https://editor.swagger.io/?url=https://petstore.swagger.io/v2/swagger.yaml).
+
+![print](https://github.com/developerbreno081/Documentacao_Request_Postman/assets/156582515/ab17953c-41c7-4f76-a7b4-a4d7b32381d4)
+
+### Passo 3: Adicionando os Requests na [Collection](https://www.postman.com/collection/)
+O vídeo a seguir não possui áudio, apenas demostrativo.
+
+https://github.com/developerbreno081/Documentacao_Request_Postman/assets/156582515/9568e732-671d-4506-887d-b63fa1566e22
+
+### Roteiro utilizado no vídeo para adicionar as Requests
+
+Método de Autorização apikey
+
+```
+key: api_key
+```
+```
+value: api_key
+```
+```
+ in: Header
+```
+
+Base URL 
+
+```
+ https://petstore.swagger.io/v2
+```
+Verbos a serem utilizados (POST, GET, PUT e DELETE)  
+
+Paths e seus Respectivos significados
+```
+ /pet (Add novo pet no store)
+```
+```
+/pet/{petId} (Buscando pet por id)
+```
+```
+/pet (Atualizando pet existente)
+```
+```
+/pet/{petId} (Excluindo pet)
+```
+
+
+
+
+
+
+
 
 
