@@ -43,3 +43,7 @@ O [Postman](https://www.postman.com/) ofere a comunidade duas formas de utiliza√
 * Vers√£o WEB para login ou criar uma conta: [Postman WEB](https://identity.getpostman.com/login)
 
 ### Passo 1: Criando uma [Collection](https://www.postman.com/collection/)
+
+https://github.com/developerbreno081/Documentacao_Request_Postman/assets/156582515/50a72b4f-a464-4e92-bf10-46cae0d34712
+
+
