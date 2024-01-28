@@ -37,3 +37,9 @@ São códigos compostos por 3 dígitos para indicar para o Client alguma sinaliz
 Imagine que você está em frente à porta de sua casa. Para entrar, você precisa provar que é o dono da casa. Então, você tira a chave do bolso e a insere na fechadura. A chave é como sua identificação única, e inseri-la com sucesso na fechadura é como provar que você é quem diz ser. Neste caso, a ação de usar a chave para entrar na casa representa a autenticação - você está provando sua identidade.
 ## Exemplificando a Autorização
 Agora, você está dentro de casa e quer acessar uma sala trancada. Você sabe que tem a chave daquela sala específica. No entanto, só porque você é o dono da casa (autenticado), não significa que você pode acessar todas as salas automaticamente. Você precisa verificar se tem a chave certa para a sala específica que deseja abrir. Se você tem a chave certa, você é autorizado a entrar. Se não, você não tem permissão. Portanto, autorização é sobre verificar se você tem permissão para acessar um recurso específico, mesmo depois de ter autenticado sua identidade.
+# 📌 Organizar o Workspace do Postman e realizar os Requests
+O [Postman](https://www.postman.com/) ofere a comunidade duas formas de utilização da plataforma, via Desktop ou WEB.
+* Versão Desktop para download: [Windows](https://www.postman.com/downloads/?utm_source=postman-home) | [Mac](https://www.postman.com/downloads/?utm_source=postman-home) | [Linux](https://www.postman.com/downloads/?utm_source=postman-home)
+* Versão WEB para login ou criar uma conta: [Postman WEB](https://identity.getpostman.com/login)
+
+### Passo 1: Criando uma [Collection](https://www.postman.com/collection/)
