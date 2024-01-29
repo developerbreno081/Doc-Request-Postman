@@ -1,5 +1,4 @@
 # 🖥 Tutorial Request API com o Postman
-Realize o seus primeiros requests utilizando a ferramenta de testes API Postman.
 ## 👀 O que é o Postman?
 O [Postman](https://www.postman.com/) é uma ferramenta de API Client utilizada pela comunidade de desenvolvedores para criar, compartilhar, testar e documentar APIs.
 ## 🔎 Modelo clássico de Request x Response - WEB
